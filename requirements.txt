@@ -9,3 +9,6 @@ folium
 ipywidgets
 IPython
 plotly
+datetime
+pytz
+streamlit_folium
