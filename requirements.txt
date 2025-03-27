@@ -8,3 +8,4 @@ opensky_api
 folium
 ipywidgets
 IPython
+plotly
